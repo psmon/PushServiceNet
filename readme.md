@@ -76,3 +76,8 @@ cluade
 ```
 > 너가 지금까지 생성한 코드를 help.md로 문서화해줘~ 필요하면 다이어그램(mermaid)도 넣어줘
 ```
+
+## 추가 정리 문서
+- https://wiki.webnori.com/pages/viewpage.action?pageId=112034169
+- https://lilys.ai/digest/4975382/4306715
+
